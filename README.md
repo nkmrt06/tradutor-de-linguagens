@@ -28,12 +28,9 @@ Este é um aplicativo gráfico de tradução de textos desenvolvido em **Python*
 
 ## 🛠️ Instalação
 
-### 1. Clone o repositório
+### 1. Dependências
 
 ```bash
-git clone https://github.com/seuusuario/seurepositorio.git
-cd seurepositorio
-
 requirements 
 pip install PySide6 googletrans==4.0.0-rc1
 pip freeze > requirements.txt
