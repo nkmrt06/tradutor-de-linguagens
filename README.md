@@ -33,5 +33,4 @@ Este é um aplicativo gráfico de tradução de textos desenvolvido em **Python*
 ```bash
 requirements 
 pip install PySide6 googletrans==4.0.0-rc1
-pip freeze > requirements.txt
 
