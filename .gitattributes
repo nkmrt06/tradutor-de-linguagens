@@ -1,0 +1,4 @@
+*.py linguist-detectable=true
+*.ico linguist-detectable=false
+README.md linguist-detectable=false
+*.html linguist-detectable=false
